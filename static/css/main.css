@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	font-family: sangs-serif;
+}
+
+.Content {
+	width: 100%;
+}
+
+table {
+	margin: auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+th {
+	border: 1px solid grey;
+	text-align: center;
+	padding: 10px 20px;
+}
+
+td {
+	border: 1px solid grey;
+	text-align: center;
+	padding: 12px 20px;
+}
+
+form {
+	margin: auto;
+	margin-top: 30px;
+	text-align: center;
+}
+
+input {
+	height: 20px	;
+}
+
+#content {
+	width: 20%;
+}
+
+#button {
+	width: 5%;
+	background-color: pink;
+}
