@@ -36,10 +36,9 @@ input {
 }
 
 #content {
-	width: 20%;
+	width: 30%;
 }
 
 #button {
-	width: 5%;
 	background-color: pink;
 }
